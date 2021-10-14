@@ -1,0 +1,45 @@
+.userPage {
+    display: grid;
+    grid-template-areas:
+  "des des ba";
+    grid-template-rows: 650px 5fr;
+    grid-template-columns: 0fr 12fr;
+}
+
+
+.descriptionBlock {
+    padding: 10px;
+    background-color: #a8e0f8;
+    max-width: 450px;
+    margin: 1px 1px;
+    grid-area: des;
+
+}
+
+.redactor {
+    padding: 10px;
+    background-color: #a8e0f8;
+    max-width: 300px;
+    margin: 1px 1px;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+}
+
+
+.contact {
+    padding-left: 10px;
+}
+
+
+
+.banner {
+    grid-area: ba;
+
+
+
+}
+
+

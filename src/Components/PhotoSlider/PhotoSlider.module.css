@@ -1,0 +1,14 @@
+
+
+.photoSlider {
+    max-width: 600px;
+    max-height: 600px;
+    margin: 20px 50px;
+    background-color: #3399ff;
+}
+
+.photoSlider img {
+    max-width: 600px;
+    max-height: 600px;
+}
+

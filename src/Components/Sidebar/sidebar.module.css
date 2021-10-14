@@ -1,0 +1,19 @@
+.sidebar {
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+.sidebar img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
+ h2 {
+     color: white;
+ }
+

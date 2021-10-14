@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap'); /*font-family: 'Amatic SC', cursive;*/
+
+.Post {
+    
+    background-color: rgb(255, 6, 6);
+    width: 50%;
+    border: 1px red solid;
+    margin-left: 10px;
+    border-radius: 50px;
+    margin-top: 20px;
+    font-size: 2rem;
+    border: 2px black solid;
+    
+    
+}
+.Post img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 20px;
+    background-color: #fff;
+       
+}
+
+.like {
+    margin-left: 55px;;
+}
+
+.message {
+    text-align: center;
+   
+}

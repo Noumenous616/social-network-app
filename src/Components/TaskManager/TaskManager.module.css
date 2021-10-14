@@ -1,0 +1,54 @@
+li {
+    list-style-type: none;
+}
+.sectionBorder {
+    max-width: 1400px;
+    height: 96%;
+    background-color: #3399ff;
+    margin: 10px 10px;
+}
+
+
+.sectionName {
+    padding: 20px 20px;
+    font-size: 40px;
+    color: white;
+
+
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+input[type=text] {
+    font-size: 1rem;
+    width: 80%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 1%;
+}
+
+.btnRed{
+    background-color: #f44336;
+    font-size: 1rem;
+    border-radius: 40%;
+    margin-left: 10px;
+
+
+}
+
+.titleInput {
+    font-size: 1.5rem;
+}
+
+.checkboxOk {
+    width: 50px;
+    height: 20px;
+    background: #333;
+    margin: 20px auto;
+
+}

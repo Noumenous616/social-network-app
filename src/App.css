@@ -1,0 +1,24 @@
+@import url('https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap'); /*font-family: 'Cormorant Infant', serif;*/
+
+.app-wrapper {
+  display: grid;
+  width: 1800px;
+  margin: auto;
+  font-family: 'Balsamiq Sans', cursive;
+
+  grid-template-areas:
+  "h h"
+  "n c";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: #c6ecfc;
+}
+
+
+
+
